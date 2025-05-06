@@ -11,7 +11,10 @@
   <img align="center" alt="André-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="André-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="André-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="André-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img align="center" alt="André-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img align="center" alt="André-Git" height="30" width="40" src="https://devicon-website.vercel.app/api/git/original.svg">
+  <img align="center" alt="André-NodeJS" height="30" width="40" src="https://devicon-website.vercel.app/api/nodejs/original.svg">
+  <img align="center" alt="André-React" height="30" width="40" src="https://devicon-website.vercel.app/api/react/original.svg">
           
 </div>
 
@@ -21,7 +24,9 @@
   <img align="center" alt="André-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="André-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="André-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="André-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img align="center" alt="André-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img align="center" alt="André-Git" height="30" width="40" src="https://devicon-website.vercel.app/api/git/original.svg">
+  <img align="center" alt="André-Github" height="30" width="40" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF">
   
 </div>
 
